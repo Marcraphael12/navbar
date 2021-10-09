@@ -71,4 +71,15 @@ body {
   transform: translateX(0px);
 }
 
+.line-0 {
+  transform: rotate(45deg) translate(4.5px, 12px);
+}
+
+.line-1 {
+  transform: scale(0);
+}
+
+.line-2 {
+  transform: rotate(-45deg) translateY(-7.5px);
+}
 
