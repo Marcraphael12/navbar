@@ -9,3 +9,5 @@ function toggler() {
   lines[1].classList.toggle("line-1");
   lines[2].classList.toggle("line-2");
 }
+
+button.addEventListener("click", toggler);
