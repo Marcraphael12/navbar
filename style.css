@@ -22,6 +22,10 @@
 	color: whitesmoke;
 }
 
+.burgerDiv {
+  display: none;
+}
+
 .rows {
   cursor: pointer;
 }
