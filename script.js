@@ -1,4 +1,4 @@
-const nav = document.querySelector(".elements");
+const nav = document.querySelector(".nav-bar");
 const button = document.querySelector(".rows");
 const lines = document.querySelectorAll(".span");
 
