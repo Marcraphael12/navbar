@@ -67,3 +67,8 @@ body {
   }
 }
 
+.sidebar {
+  transform: translateX(0px);
+}
+
+
