@@ -38,3 +38,8 @@
   border-radius: 2px;
   transition: 0.5s cubic-bezier(0.23, 1, 0.320, 1);
 }
+
+@media (max-width: 450px) {
+
+}
+
